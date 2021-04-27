@@ -8,5 +8,10 @@
 		"id_product": 2,
 		"product_name": "Game",
 		"price": 2000
+	},
+		{ 
+		"id_product": 3,
+		"product_name": "Приставка",
+		"price": 3000
 	}
 ]
